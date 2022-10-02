@@ -1,1 +1,1 @@
-# TemplateHub
+# Template Hub
