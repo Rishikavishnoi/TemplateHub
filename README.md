@@ -11,14 +11,25 @@ If anyone want to contribute in this repository and improve their web developmen
 - README.md file is required in each folder that conatin Screenshot of the design **
 
 
-This repository contains different folder - 
-- [About us page templates inside this folder](https://github.com/Rishikavishnoi/TemplateHub/tree/main/About-page)
+This repository contains different folder such as following - 
+- [About us page templates](https://github.com/Rishikavishnoi/TemplateHub/tree/main/About-page)
 - [Blogging website template](https://github.com/Rishikavishnoi/TemplateHub/tree/main/Blog-Site)
-- [](https://github.com/Rishikavishnoi/TemplateHub/tree/main/CSS-Animation)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [CSS-Animation](https://github.com/Rishikavishnoi/TemplateHub/tree/main/CSS-Animation)
+- [Card Design ](https://github.com/Rishikavishnoi/TemplateHub/tree/main/Cards)
+- [Clone site](https://github.com/Rishikavishnoi/TemplateHub/tree/main/Clone)
+- [Contact page template](https://github.com/Rishikavishnoi/TemplateHub/tree/main/Contact%20page)
+- [Footer ](https://github.com/Rishikavishnoi/TemplateHub/tree/main/Footer)
+- [Form deisgn ](https://github.com/Rishikavishnoi/TemplateHub/tree/main/Forms)
+- [Header](https://github.com/Rishikavishnoi/TemplateHub/tree/main/Header)
+- [Javascript Projects](https://github.com/Rishikavishnoi/TemplateHub/tree/main/JS-Product)
+- [Landing Page template](https://github.com/Rishikavishnoi/TemplateHub/tree/main/Landing-Page)
+- [Navbar design](https://github.com/Rishikavishnoi/TemplateHub/tree/main/Navbar)
+- [Portfolio](https://github.com/Rishikavishnoi/TemplateHub/tree/main/Portfolio)
+- [Testimonial](https://github.com/Rishikavishnoi/TemplateHub/tree/main/Testimonial)
 
+you can also create your own folder if want to add something different. 
+
+
+
+
+Don't forget to leave a star ⭐
