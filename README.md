@@ -1,5 +1,5 @@
 "Practice makes a man perfect" 
-# Template Hub 
+### Template Hub 
 This is the beginner level repository and help to improve front end skills.
 This repository will contains the different templates or code snippet to use in the website and  anyone can use in their website. 
 
