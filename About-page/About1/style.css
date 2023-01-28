@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: aquamarine;
+}
+
+.about{
+   background-image: url("bg.jpg") ; 
+   width:100vw;
+   height: 80vh;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.about .heading{
+    position:absolute;
+    left:50%;
+    bottom: 50%;
+    transform: translate(-50px,-50px);
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 2.5rem;
+}
+.sec-heading{
+font-size: 1.4rem;
+text-align: center;
+margin: 20px;
+}
+.info{
+    column-count: 2;
+}
