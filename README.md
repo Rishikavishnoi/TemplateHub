@@ -1,4 +1,4 @@
-<h2 align= center> Template Hub 💻</h2>
+<h1 align= center> Template Hub 💻</h1>
 Practice your frontend development knowledge by building amazing templates using HTML , CSS and Javascript....
 
 
