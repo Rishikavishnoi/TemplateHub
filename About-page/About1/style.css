@@ -3,14 +3,17 @@
     padding:0;
     box-sizing: border-box;
     background-color: aquamarine;
+    justify-content: space-around;
+    object-fit: contain;
 }
 
 .about{
    background-image: url("bg.jpg") ; 
-   width:100vw;
+   width:1519px;
    height: 80vh;
    background-size: cover;
    background-repeat: no-repeat;
+   object-fit: cover;
 }
 .about .heading{
     position:absolute;
@@ -27,5 +30,14 @@ text-align: center;
 margin: 20px;
 }
 .info{
-    column-count: 2;
+    /* column-count: 2; */
+    margin-left: 20px;
+    margin-right: 20px;
+    word-spacing: 5px;
+    position: relative;
+    font-size: large;
+    font-style: italic;
+}
+.description{
+    margin-top: 20px;
 }
