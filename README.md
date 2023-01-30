@@ -44,4 +44,4 @@ You can refer to the following articles on **_basics of Git and Github and also 
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
 
-leave ⭐ to motivate us 
+Leave ⭐ To Motivate Us 
